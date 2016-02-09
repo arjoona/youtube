@@ -10,7 +10,7 @@ title: Nithyanandam
 email: arjun@skuchain.com 
 description: > # this means to ignore newlines until "baseurl:"
   Demo site integrating machine transcription service into YouTube. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "http://arjoona.github.io/youtube/" # the subpath of your site, e.g. /blog
 url: "https://github.com/arjoona/youtube" # the base hostname & protocol for your site
 twitter_username: ' ' 
 github_username: arjoona 
